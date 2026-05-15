@@ -291,8 +291,9 @@ Custom measures for:
 └── README.md
 
 ```
-
   
+## Final Dashboard
+![Dashboard](images/9- Dashboard.png)
 
 ---
 
