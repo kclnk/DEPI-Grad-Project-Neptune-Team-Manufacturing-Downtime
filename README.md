@@ -293,7 +293,7 @@ Custom measures for:
 ```
   
 ## Final Dashboard
-![Dashboard](images/9- Dashboard.png)
+<img src="images/9- Dashboard.png" width="800">
 
 ---
 
